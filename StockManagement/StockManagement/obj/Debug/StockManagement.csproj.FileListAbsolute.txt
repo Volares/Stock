@@ -1,0 +1,17 @@
+D:\C# Coding\StockManagement\StockManagement\bin\Debug\StockManagement.exe.config
+D:\C# Coding\StockManagement\StockManagement\bin\Debug\StockManagement.exe
+D:\C# Coding\StockManagement\StockManagement\bin\Debug\StockManagement.pdb
+D:\C# Coding\StockManagement\StockManagement\obj\Debug\StockManagement.csprojAssemblyReference.cache
+D:\C# Coding\StockManagement\StockManagement\obj\Debug\StockManagement.Properties.Resources.resources
+D:\C# Coding\StockManagement\StockManagement\obj\Debug\StockManagement.StockMain.resources
+D:\C# Coding\StockManagement\StockManagement\obj\Debug\StockManagement.csproj.GenerateResource.cache
+D:\C# Coding\StockManagement\StockManagement\obj\Debug\StockManagement.csproj.CoreCompileInputs.cache
+D:\C# Coding\StockManagement\StockManagement\obj\Debug\StockManagement.exe
+D:\C# Coding\StockManagement\StockManagement\obj\Debug\StockManagement.pdb
+D:\C# Coding\StockManagement\StockManagement\obj\Debug\StockManagement.Products.resources
+D:\C# Coding\StockManagement\StockManagement\obj\Debug\StockManagement.FRM_Login.resources
+D:\C# Coding\StockManagement\StockManagement\bin\Debug\EntityFramework.dll
+D:\C# Coding\StockManagement\StockManagement\bin\Debug\EntityFramework.SqlServer.dll
+D:\C# Coding\StockManagement\StockManagement\bin\Debug\EntityFramework.xml
+D:\C# Coding\StockManagement\StockManagement\bin\Debug\EntityFramework.SqlServer.xml
+D:\C# Coding\StockManagement\StockManagement\obj\Debug\StockManagement.csproj.CopyComplete
